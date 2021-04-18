@@ -1,7 +1,13 @@
-# 利用PicGo将Github配置为图床
-原本我是使用自己的阿里云服务器，作为图床
+# 图床迁移
 
-结果截图越来越多，害怕自己的服务器容量不够，所以就把Github作为图床
+最初我使用 GitHub 作为图床，有两个问题：
 
-配置方法参考的官方文档：https://picgo.github.io/PicGo-Doc/zh/guide/config.html
+* GitHub 在国内访问速度比较慢
+* 我每次上传图片，GitHub 会将上传的图片也看做是我的工作量
+
+但由于很多文章的图片还存储在 GitHub 中，所以这个仓库并不方便删除。
+
+如今我单独使用国内的 Gitee 作为图床
+
+[Gitee](https://gitee.com/Li-Jun-Lin/figure)
 
